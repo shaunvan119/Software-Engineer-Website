@@ -1,4 +1,41 @@
+body{
+  
+  background-color: aquamarine;
+  
+}
 
-body {
-    background: blue;
-  }
+.box{
+  
+  background: rgba(0, 0, 0, 0.4);
+  padding: 100px;
+  text-align: center;
+  margin: auto;
+  margin-top: 2%;
+  margin-bottom: 10%;
+  color: white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
+
+.box-img{
+  border-radius: 50%;
+  height: 200px;
+
+}
+
+.box h1{
+  font-size: 40px;
+}
+
+.box h5{
+  font-size: 20px;
+}
+
+
+
+.email a{
+  color: white;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
+
