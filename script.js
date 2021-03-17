@@ -1,3 +1,7 @@
-/*const h2 = document.createElement('h2');
-h2.textContent = "SHAUN VAN AMERSFOORT";
-document.querySelector('body').appendChild(h2);*/
+function changeBackground() {
+    var text = document.getElementById("para").style.backgroundColor = "green";
+}
+
+function backToNormal() {
+    var text = document.getElementById("para").style.backgroundColor = ""
+}
