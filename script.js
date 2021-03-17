@@ -1,7 +1,7 @@
 function changeBackground() {
-    var text = document.getElementById("para").style.backgroundColor = "green";
+    let text = document.getElementById("button").style.backgroundColor = "green";
 }
 
 function backToNormal() {
-    var text = document.getElementById("para").style.backgroundColor = ""
+    let text = document.getElementById("button").style.backgroundColor = ""
 }
