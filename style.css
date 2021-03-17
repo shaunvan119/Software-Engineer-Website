@@ -1,12 +1,14 @@
 body{
   
-  background-color: aquamarine;
+  background-color: black;
+  
   
 }
 
+
 .box{
   
-  background: rgba(0, 0, 0, 0.4);
+  background: rgba(255, 255, 255, 0.219);
   padding: 100px;
   text-align: center;
   margin: auto;
@@ -34,8 +36,13 @@ body{
 
 
 .email a{
-  color: white;
+  color: black;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   
+}
+
+.skills{
+  color: white;
+
 }
 
